@@ -1,0 +1,44 @@
+  # Is It Me or Is It Meno?
+
+  Support page for the iOS app. A perimenopause symptom
+  tracker. All data stays on your phone.
+
+  ## Need help?
+
+  Email **steven.nilsen@gmail.com** with your question or
+  feedback. Please include your iOS version and a brief 
+  description of what you were doing when the problem occurred. 
+  Do not send any health data; we do not need it to help you.                                       
+
+  ## Common questions
+
+  ### Is my data on a server somewhere?
+
+  No. Everything you log lives only on your iPhone. The
+  app sends no analytics, no telemetry, no error reports. 
+  Your data leaves the device only when you choose to 
+  share a report (PDF) using your phone's share sheet.
+                                                          
+  ### How do I delete my data?                          
+
+  Settings, then Data and Privacy, then "Delete all my    
+  logs" removes everything you have logged. "Delete everything" also    
+  removes your profile and preferences. Deleting the app from your 
+  phone also removes all data, since nothing is stored elsewhere.
+                                                          
+  ### Is the app a medical device or a diagnosis?
+                                                          
+  No. The app is informational. It records what you log 
+  and presents the  patterns. Anything in the report is something 
+  to discuss with your healthcare provider
+  if you want clinical confirmation.
+                                                          
+  ### What is the MRS?                                  
+
+  The Menopause Rating Scale, an eleven-factor instrument
+  used by clinicians to characterize the menopausal transition.
+  The app uses the published wordings.
+                                                          
+  ## Privacy policy                                     
+
+  See [PRIVACY.md](./PRIVACY.md).
