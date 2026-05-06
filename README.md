@@ -8,5 +8,5 @@
                                                           
   The live pages are served via GitHub Pages:             
    
-  - [Support](https://snilsen13-green.github.io/isitme-support/)                                                
+  - [Support](https://snilsen13-green.github.io/isitme-support/SUPPORT.html)                                                
   - [Privacy Policy](https://snilsen13-green.github.io/isitme-support/PRIVACY.html)     
