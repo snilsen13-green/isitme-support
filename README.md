@@ -1,7 +1,7 @@
   # isitme-support
 
   This repository serves the support page and privacy     
-  policy for **Is It Meor Is It Meno?**, an iOS app 
+  policy for **Is It Me or Is It Meno?**, an iOS app 
   that tracks perimenopause symptoms with all                                       
   data kept on the user's device.
                                                           
