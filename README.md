@@ -7,7 +7,7 @@
                                                           
   The live pages are served via GitHub Pages:             
    
-  - [Support](https://snilsen13.github.io/isitme-sup
+  - [Support](https://snilsen13-green.github.io/isitme-sup
   port/)                                                
-  - [Privacy Policy](https://snilsne13.github.io/isi
+  - [Privacy Policy](https://snilsen13-green.github.io/isi
   tme-support/PRIVACY.html)     
